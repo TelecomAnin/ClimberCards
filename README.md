@@ -1,6 +1,13 @@
 # Climber Cards
-<a href="https://github.com/ClimberAB/ClimberCards/releases/download/v1.3.0/cl-cards-v1.3.0.zip" target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
-alt="Download latest release" width="400" height="40" border="0" /></a>  
+<a href="https://github.com/ClimberAB/ClimberCards/releases/download/v1.3.1/cl-cards-v1.3.1.zip" target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
+alt="Download latest release" width="400" height="40" border="0" /></a>
+
+## Most recent update 1.3.1 - 2018-09-10
+### Fixed
+- Modules load order (Issue 7 - Visualization not found on the server)
+
+Previous updates can be found here, <a href="CHANGELOG.md"> CHANGELOG </a>.
+
 > Table extension with cards as cells, developed for showcasing items with images. Responsive design and selection enabled, both click and swipes. Multiple layout options and Select and Go To Sheet mode
 
 ***Tested from Qlik Sense June 2017 (in the initial release of June 2017, extensions load slow. It's fixed in patch 1 )***
