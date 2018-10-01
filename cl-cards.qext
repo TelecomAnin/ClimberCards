@@ -1,0 +1,10 @@
+{
+    "name": "Climber Cards",
+    "description": "List of cards with images and dimensions and measures",
+    "version": "1.3.1",
+    "license": "Copyright Climber AB",
+    "type": "visualization",
+    "icon": "list",
+    "preview": "preview.jpg",
+    "author": "Karl Fredberg Sjöstrand"
+}
